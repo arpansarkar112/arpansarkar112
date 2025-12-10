@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpansarkar112&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[arpansarkar112](https://github.com/arpansarkar112)&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
