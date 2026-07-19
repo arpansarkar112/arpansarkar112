@@ -31,7 +31,7 @@
 
 ### 👋 Hi, I'm Arpan Sarkar
 
-- 🔭 **Currently working on:** Building scalable backend APIs and complex database architectures (like ticketing systems).
+- 🔭 **Currently working on:** Building scalable backend APIs and complex database architectures.
 - 📚 **Currently learning:** Advanced Full-Stack Development, focusing on React, Node.js, SQL, and cloud deployments.
 
 <h3 align="left">🛠 Language and tools</h3>
