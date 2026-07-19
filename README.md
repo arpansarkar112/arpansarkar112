@@ -28,11 +28,11 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
-<p align="left">I'm Arpan Sarkar from SeAMK<br>- 📚 I'm currently learning Full-stack Development<br>- ⚡ In my free time I am practicing Finnish 🇫🇮</p>
+### 👋 Hi, I'm Arpan Sarkar
 
-###
+- 🔭 **Currently working on:** Building scalable backend APIs and complex database architectures (like ticketing systems).
+- 📚 **Currently learning:** Advanced Full-Stack Development, focusing on React, Node.js, SQL, and cloud deployments.
 
 <h3 align="left">🛠 Language and tools</h3>
 
